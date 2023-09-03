@@ -1,0 +1,6 @@
+# IntelliJ IDEA files and folders
+*.iml
+.idea
+
+# Java build directories
+target
